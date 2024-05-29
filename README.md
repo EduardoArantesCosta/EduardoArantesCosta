@@ -1,39 +1,32 @@
-# Nice to meet you, my name is Eduardo Arantes. 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eduardo Arantes Costa
+=============================================================================================================================================
 
-## Intro
+Web developer
+-------------
 
-I will summarize below how I got here.
+I will summarize below how I got here. It all started in 2010, when I ended up entering the IT area by chance, in a vacancy that came up in the first company I worked for and I stayed there for 4 years as an IT assistant. To start in the hardware area, I only took short courses in computer and network maintenance, always focused on traditional hardware and infrastructure at the time. As I always really liked the exact area, and at the time my dream was to open my company in the area of ​​providing financial and auditing services, in 2011 I started my degree in administration and intended to later specialize in some area. In 2013 I ended up leaving that company to take over the IT coordination of another company, where I still provide services to this day. Even working in the IT area, I have always taken some courses focused on the financial area, such as: costs, cash flow, taxation, etc. My plans have always been to stop working in the IT area (infra), until I have contact with programming logic in 2022, as until then I have always worked with Infra. When I had my contact with logic, and I always liked logical reasoning, I decided in the following semester to start a new degree in Computer Science, and so it was, I started in 2022. Since then I have been focused on my studies, and I love learning new things and studying . Everything is still very new and interesting to me. I have basic English and I'm taking a course to improve it and become fluent. I never tire of learning, I love studying, and that's why, along with my degree, I take some other courses in the area.
 
-It all started in 2010, when I ended up entering the IT area by chance, in a vacancy that came up in the first company I worked for and I stayed there for 3 years as an IT assistant. To start in the area of ​​hardware and infrastructure, I only took short courses in computer and network maintenance, always focused on traditional hardware and infrastructure at the time.
-
-As I always really liked the exact area, and at the time my dream was to open my company in the area of ​​providing financial and auditing services, in 2011 I started my degree in administration and intended to later specialize in some area.
-
-In 2013 I ended up leaving that company to take over the IT coordination of another company, where I still work today, providing services.
-
-During the 10 years I worked at this company I ended up taking some courses in the area of ​​costs, flow and cash, etc. And today I dedicate 3 days a month to preparing the monthly Results Analysis, and report to the Board, but only as an extra, as my focus is IT.
-
-My plans have always been to leave the IT area, until I have contact with programming logic in 2022, as until then I have always worked with Infra. When I had my contact with logic, and I always liked logical reasoning, I decided in the following semester to start a new degree in Computer Science, and so it was, I started in 2022. Since then I have been totally focused on my studies, and I love learning new things and to study. Everything is still very new and interesting to me.
-
-I have basic English and I'm taking a course to improve it and become fluent.
-
-I never tire of learning, I love studying, and that's why, along with my degree, I take some other courses in the area.
-
----------------------------------------------------------------------------------------------------------------------------
-
-
-
-Vou resumir abaixo como cheguei aqui.
-
-Tudo começou em 2010, quando acabei entrando na área de TI por acaso, em uma vaga que surgiu na primeira empresa que trabalhei e lá fiquei por 3 anos como assistente de TI. Para começar na área de hardware e infraestrutura, fiz apenas cursos de curta duração de manutenção de computadores e redes, sempre focados em hardware e infraestrutura tradicional da época.
-
-Como sempre gostei muito da área de exatas, e na época meu sonho era abrir minha empresa na área de prestação de serviços financeiros e de auditoria, em 2011 iniciei a graduação em administração e pretendia posteriormente me especializar em alguma área.
-
-Em 2013 acabei saindo daquela empresa para assumir a coordenação de TI de outra empresa, onde trabalho até hoje, prestando serviços.
-
-Durante os 10 anos que trabalhei nesta empresa acabei fazendo alguns cursos na área de custos, fluxo e caixa, etc. E hoje dedico 3 dias por mês para preparar a Análise de Resultados mensal, e reporto para da Diretoria, mas apenas como figurante, pois meu foco é TI.
-
-Meus planos sempre foram sair da área de TI, até ter contato com lógica de programação em 2022, pois até então sempre trabalhei com Infra. Quando tive meu contato com lógica, e sempre gostei de raciocínio lógico, decidi no semestre seguinte iniciar uma nova graduação em Ciência da Computação, e assim foi, comecei em 2022. Desde então estou totalmente focado em meu estudos, e adoro aprender coisas novas e estudar. Tudo ainda é muito novo e interessante para mim.
-
-Tenho inglês básico e estou fazendo um curso para aprimorá-lo e me tornar fluente.
-
-Não canso de aprender, adoro estudar, e por isso, junto com a graduação faço alguns outros cursos na área.
+*   🌍  I'm based in São Paulo - SP - Brasil
+*   🧠  I'm learning HTML, CSS, SASS, JavaScript, React, NodeJS, Bootstrap, ECMAScript, PHP, MySQL, Ajax, JQuery, GIT e GitHub.### Skills 
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://www.github.com/EduardoArantesCosta" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.linkedin.com/in/eduardo-arantes-a8298a21b" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>
