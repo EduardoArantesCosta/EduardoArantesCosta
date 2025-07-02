@@ -5,8 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Eu estou procurando um trabalho
 
-Web developer
-Desenvolvedor Web
+## Web developer
+## Desenvolvedor Web
 -------------
 
 I will summarize below how I got here. It all started in 2010, when I ended up entering the IT area by chance, in a vacancy that came up in the first company I worked for and I stayed there for 4 years as an IT assistant. To start in the hardware area, I only took short courses in computer and network maintenance, always focused on traditional hardware and infrastructure at the time. As I always really liked the exact area, and at the time my dream was to open my company in the area of ​​providing financial and auditing services, in 2011 I started my degree in administration and intended to later specialize in some area. In 2013 I ended up leaving that company to take over the IT coordination of another company, where I still provide services to this day. Even working in the IT area, I have always taken some courses focused on the financial area, such as: costs, cash flow, taxation, etc. My plans have always been to stop working in the IT area (infra), until I have contact with programming logic in 2022, as until then I have always worked with Infra. When I had my contact with logic, and I always liked logical reasoning, I decided in the following semester to start a new degree in Computer Science, and so it was, I started in 2022. Since then I have been focused on my studies, and I love learning new things and studying . Everything is still very new and interesting to me. I have basic English and I'm taking a course to improve it and become fluent. I never tire of learning, I love studying, and that's why, along with my degree, I take some other courses in the area.
